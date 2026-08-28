@@ -1,0 +1,485 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"id": "A01",
+"nombre": "Larios Street",
+"operador": "Bounce",
+"direccion": "Calle Compañía 22, 29008 Málaga",
+"tipo": "comercio",
+"anio": 2024,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.423727,
+36.721392
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A02",
+"nombre": "Malaga Museum",
+"operador": "Bounce",
+"direccion": "Calle Císter 13, 29015 Málaga",
+"tipo": "comercio",
+"anio": 2022,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.417901,
+36.720529
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A03",
+"nombre": "Malaga Station 2",
+"operador": "Bounce",
+"direccion": "Calle Explanada de la Estación 4, 29002 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.430685,
+36.712472
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A04",
+"nombre": "Parroquia Santiago",
+"operador": "Bounce",
+"direccion": "Calle Granada 47, 29012 Málaga",
+"tipo": "comercio",
+"anio": 2022,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.418633,
+36.722068
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A05",
+"nombre": "Picasso Birthplace - Gómez Pallete",
+"operador": "Bounce",
+"direccion": "Calle Gómez Pallete 5, 29012 Málaga",
+"tipo": "comercio",
+"anio": 2022,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.417982,
+36.724116
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A06",
+"nombre": "Near MAUS",
+"operador": "Bounce",
+"direccion": "Calle Tomás Heredia 8, 29001 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.423313,
+36.71645
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A17",
+"nombre": "Alameda Principal - Norte",
+"operador": "Radical Storage",
+"direccion": "Alameda Principal 37, 29001 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.424116,
+36.716885
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A18",
+"nombre": "Málaga-María Zambrano Station",
+"operador": "Radical Storage",
+"direccion": "Calle Cuarteles 41, 29002 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.429057,
+36.712678
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A19",
+"nombre": "Near Málaga Railway Station",
+"operador": "Radical Storage",
+"direccion": "Calle Edison, 29006 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.435887,
+36.712813
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A20",
+"nombre": "Parroquia Santiago Apóstol",
+"operador": "Radical Storage",
+"direccion": "Calle Granada 67, 29015 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.417695,
+36.722493
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A21",
+"nombre": "Plaza de la Merced",
+"operador": "Radical Storage",
+"direccion": "Calle Gómez Pallete 3, 29012 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.417869,
+36.724016
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A22",
+"nombre": "Playa La Malagueta",
+"operador": "Radical Storage",
+"direccion": "Calle Maestranza 27, 29016 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.408159,
+36.719663
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A23",
+"nombre": "La Trinidad",
+"operador": "Radical Storage",
+"direccion": "Calle Martínez Maldonado 4, 29011 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.43217,
+36.721558
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A24",
+"nombre": "Malaga Museum",
+"operador": "Radical Storage",
+"direccion": "Calle Pedro de Toledo 2, 29015 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.418159,
+36.720775
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A25",
+"nombre": "Museo Carmen Thyssen",
+"operador": "Radical Storage",
+"direccion": "Calle Puerta del Mar 10, 29005 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.423034,
+36.7187
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A26",
+"nombre": "Atarazanas Metro Station",
+"operador": "Radical Storage",
+"direccion": "Calle Sagasta 12, 29005 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.424419,
+36.718585
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A27",
+"nombre": "CAC Málaga",
+"operador": "Radical Storage",
+"direccion": "Calle San Lorenzo 33, 29001 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.424184,
+36.715049
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A28",
+"nombre": "Old Town",
+"operador": "Radical Storage",
+"direccion": "Calle Santa María 16, 29015 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.420816,
+36.721018
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A29",
+"nombre": "Malaga's Historic Centre",
+"operador": "Radical Storage",
+"direccion": "Calle Sánchez Pastor 4, 29015 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.421,
+36.721302
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A30",
+"nombre": "Ferry Terminal",
+"operador": "Radical Storage",
+"direccion": "Calle Trinidad Grund 5A, 29001 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.421274,
+36.717293
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A31",
+"nombre": "El Perchel",
+"operador": "Radical Storage",
+"direccion": "Calle la Serna 10, 29002 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.429625,
+36.714304
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A32",
+"nombre": "Carretera de Coín",
+"operador": "Radical Storage",
+"direccion": "Carretera de Coín 39, 29140 Churriana, Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.497379,
+36.660018
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A35",
+"nombre": "Málaga Railway Station",
+"operador": "Radical Storage",
+"direccion": "Pasaje Esau 4, 29006 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.435811,
+36.711961
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "A36",
+"nombre": "Parque de Málaga",
+"operador": "Radical Storage",
+"direccion": "Paseo de Reding 11, 29016 Málaga",
+"tipo": "comercio",
+"anio": null,
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.411439,
+36.721101
+]
+}
+}
+]
+}
