@@ -1,0 +1,785 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"id": "C00",
+"nombre": "City Lockers Málaga (sede original)",
+"operador": "City Lockers",
+"direccion": "Pasaje Clemens 2 (Calle Victoria 26), 29012 Málaga",
+"tipo": "consigna",
+"anio": 2017,
+"desde2023": false,
+"carreteria": false,
+"cerrada": true,
+"anio_cierre": 2018,
+"vecina_m": 167,
+"numero": "2",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.41598,
+36.723882
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C01",
+"nombre": "City Lockers Málaga",
+"operador": "City Lockers",
+"direccion": "Calle Carretería 53, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2018,
+"desde2023": false,
+"carreteria": true,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 129,
+"numero": "53",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.423454,
+36.723484
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C02",
+"nombre": "Lock and Relax",
+"operador": "Lock and Relax",
+"direccion": "Calle Casas de Campos 22, 29001 Málaga",
+"tipo": "consigna",
+"anio": 2017,
+"desde2023": false,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 48,
+"numero": "22",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.423852,
+36.715977
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C03",
+"nombre": "Málaga Center Lockers",
+"operador": "Málaga Center Lockers",
+"direccion": "Calle Cárcer 1, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2022,
+"desde2023": false,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 108,
+"numero": "1",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.420058,
+36.723431
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C04",
+"nombre": "The Lockers - Calderería",
+"operador": "The Lockers Málaga",
+"direccion": "Calle Calderería 4, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2023,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 116,
+"numero": "4",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.420515,
+36.722198
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C05",
+"nombre": "The Lockers - Carretería 24",
+"operador": "The Lockers Málaga",
+"direccion": "Calle Carretería 24, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2023,
+"desde2023": true,
+"carreteria": true,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 169,
+"numero": "24",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.424539,
+36.722236
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C06",
+"nombre": "The Lockers - Carretería 94",
+"operador": "The Lockers Málaga",
+"direccion": "Calle Carretería 94, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2023,
+"desde2023": true,
+"carreteria": true,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 51,
+"numero": "94",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.420945,
+36.724266
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C07",
+"nombre": "LOCK & enjoy! María Zambrano",
+"operador": "LOCK & enjoy!",
+"direccion": "Calle Héroe de Sostoa 12, 29002 Málaga",
+"tipo": "consigna",
+"anio": 2023,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 227,
+"numero": "12",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.43236,
+36.710551
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C08",
+"nombre": "Stow Your Bags - María Zambrano",
+"operador": "Stow Your Bags",
+"direccion": "Calle Jovellanos 5, 29002 Málaga",
+"tipo": "consigna",
+"anio": 2023,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 235,
+"numero": "5",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.430279,
+36.712751
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C09",
+"nombre": "The Lockers - Ollerías",
+"operador": "The Lockers Málaga",
+"direccion": "Calle Ollerías 14, 29012 Málaga",
+"tipo": "consigna",
+"anio": 2023,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 92,
+"numero": "14",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.421862,
+36.724646
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C10",
+"nombre": "The Lockers - San Juan",
+"operador": "The Lockers Málaga",
+"direccion": "Calle San Juan 16, 29005 Málaga",
+"tipo": "consigna",
+"anio": 2023,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 195,
+"numero": "16",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.423675,
+36.720429
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C11",
+"nombre": "The Lockers - San Juan de Letrán",
+"operador": "The Lockers Málaga",
+"direccion": "Calle San Juan de Letrán 2, 29012 Málaga",
+"tipo": "consigna",
+"anio": 2023,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 195,
+"numero": "2",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.417941,
+36.723849
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C12",
+"nombre": "The Lockers - Alameda de Colón",
+"operador": "The Lockers Málaga",
+"direccion": "Alameda de Colón 18, 29001 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 110,
+"numero": "18",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.424665,
+36.714764
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C13",
+"nombre": "Locker in the City - Soho",
+"operador": "Locker in the City",
+"direccion": "Calle Barroso 18, 29001 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 48,
+"numero": "18",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.423915,
+36.71555
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C14",
+"nombre": "Easy Lockers Málaga",
+"operador": "Easy Lockers",
+"direccion": "Calle Comedias 22, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 68,
+"numero": "22",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.421189,
+36.723095
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C15",
+"nombre": "LOCK & enjoy! Carretería",
+"operador": "LOCK & enjoy!",
+"direccion": "Calle Dos Aceras 8, 29012 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 51,
+"numero": "8",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.420675,
+36.724669
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C16",
+"nombre": "Lock & Store - Esparteros",
+"operador": "Lock & Store",
+"direccion": "Calle Esparteros 9, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 195,
+"numero": "9",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.422322,
+36.719048
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C17",
+"nombre": "M Lockers Málaga",
+"operador": "M Lockers",
+"direccion": "Calle Fernán Núñez 2, 29002 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 227,
+"numero": "2",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.429825,
+36.710662
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C18",
+"nombre": "The Lockers - Mármoles",
+"operador": "The Lockers Málaga",
+"direccion": "Calle Mármoles 11, 29007 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 203,
+"numero": "11",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.426684,
+36.721622
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C19",
+"nombre": "My Locker Málaga",
+"operador": "My Locker",
+"direccion": "Calle Nosquera 2, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 54,
+"numero": "2",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.421901,
+36.722876
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C20",
+"nombre": "The Lockerspot Málaga",
+"operador": "The Lockerspot",
+"direccion": "Calle Periodista Leovigildo Caballero Gutiérrez 2, 29016 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 695,
+"numero": "2",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.410941,
+36.719597
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C21",
+"nombre": "Lavala Lockers",
+"operador": "Lavala Lockers",
+"direccion": "Calle Ríos Rosas 8, 29007 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 329,
+"numero": "8",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.429621,
+36.719829
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C22",
+"nombre": "Lucky Lockers Málaga",
+"operador": "Lucky Lockers (Fama Lockers SL)",
+"direccion": "Plaza de los Mártires Ciriaco y Paula 9, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2024,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 11,
+"numero": "9",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.422577,
+36.722456
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C23",
+"nombre": "Lock and Move - Andrés Pérez",
+"operador": "Lock and Move",
+"direccion": "Calle Andrés Pérez 1, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2025,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 11,
+"numero": "1",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.422586,
+36.722557
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C24",
+"nombre": "Lock & Store - Cañón",
+"operador": "Lock & Store",
+"direccion": "Calle Cañón 7, 29015 Málaga",
+"tipo": "consigna",
+"anio": 2025,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 279,
+"numero": "7",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.418692,
+36.720157
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C25",
+"nombre": "Lock and Move - Comedias",
+"operador": "Lock and Move",
+"direccion": "Calle Comedias 4, 29008 Málaga",
+"tipo": "consigna",
+"anio": 2025,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 41,
+"numero": "4",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.422122,
+36.722419
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C26",
+"nombre": "The Lockers - La Victoria",
+"operador": "The Lockers Málaga",
+"direccion": "Calle La Victoria 45, 29012 Málaga",
+"tipo": "consigna",
+"anio": 2025,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 292,
+"numero": "45",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.415171,
+36.725239
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C27",
+"nombre": "The Lockers - Mariblanca",
+"operador": "The Lockers Málaga",
+"direccion": "Calle Mariblanca 16, 29012 Málaga",
+"tipo": "consigna",
+"anio": 2025,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 74,
+"numero": "16",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.41985,
+36.724731
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C28",
+"nombre": "LOCK & enjoy! Alameda Principal",
+"operador": "LOCK & enjoy!",
+"direccion": "Calle Panaderos 24, 29005 Málaga",
+"tipo": "consigna",
+"anio": 2025,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 209,
+"numero": "24",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.425223,
+36.717505
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "C29",
+"nombre": "LOCK & enjoy! El Perchel",
+"operador": "LOCK & enjoy!",
+"direccion": "Calle Ancha del Carmen 37, 29002 Málaga",
+"tipo": "consigna",
+"anio": 2026,
+"desde2023": true,
+"carreteria": false,
+"cerrada": false,
+"anio_cierre": null,
+"vecina_m": 276,
+"numero": "37",
+"foto": "",
+"pie_foto": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-4.428307,
+36.71467
+]
+}
+}
+]
+}
